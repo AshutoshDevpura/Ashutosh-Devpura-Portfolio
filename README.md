@@ -7,28 +7,42 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/ashutoshdevpura](https://www.linkedin.com/in/ashutoshdevpura/)
 
 ## Academics
+ [Northeastern University](https://www.northeastern.edu/), Boston
+ <br>Sep 2022 - May 2024 (expected)
+ <br>**MS, Data Analytics Engineering**
 
-Sep 2022 - May 2024 (expected)
- :<br>**MS, Data Analytics Engineering**; 
-  <br>Northeastern University, Boston
 
-Oct 2021 - Jun 2022
-:<br>**PG Diploma, Data Science & Analytics**;   
-  National Institute of Electronics & Information Technology, Chennai
+ [National Institute of Electronics & Information Technology](https://nielit.gov.in/chennai/), Chennai
+<br>Oct 2021 - Jun 2022
+<br>**PG Diploma, Data Science & Analytics**  
+
     
- May 2017 - Jun 2021
- :<br>**B.Tech, Information Technology**; 
-  <br>SRM Institute of science & Technology, Chennai
+ [SRM Institute of science & Technology](https://www.srmist.edu.in/), Chennai
+ <br>May 2017 - Jun 2021
+ <br>**B.Tech, Information Technology**
+
     
  
  ## Internship & Volunteer Work
-**Technovalley Software India Private Limited**;
+**Technovalley Software India Private Limited** 
+
+-
+-
+-
 
 
 
 **AIESEC**
+ <br>***AIESEC IN UNSRI***
  
-  
+ -
+ -
+ -
+ 
+ <br>***AISEC IN EGYPT***
+ 
+  -
+  -
     
 
  
