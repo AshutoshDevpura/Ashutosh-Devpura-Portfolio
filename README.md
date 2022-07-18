@@ -46,9 +46,14 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     
 
  
-## Achievements
+## Research Paper
+- [Vehicle Speed Estimation and Tracking using Deep Learning and Computer Vision](https://link.springer.com/chapter/10.1007/978-981-16-7167-8_6)
+<br>Publisher: Springer
+<br>Cite this paper: Sathyabama, B.,**Devpura, A.**, Maroti, M., Rajput, R.S. (2022). Vehicle Speed Estimation and Tracking Using Deep Learning and Computer Vision. In: Raj, J.S., Kamel, K., Lafata, P. (eds) Innovative Data Communication Technologies and Application. Lecture Notes on Data Engineering and Communications Technologies, vol 96. Springer, Singapore. https://doi.org/10.1007/978-981-16-7167-8_6
 
-
+- [Monitoring Pandemic Precautionary Protocols using Real-time Surveillance and Artificial Intelligence](https://ieeexplore.ieee.org/document/9315934)
+<br>Publisher: IEEE
+<br>Cite this paper: B. Sathyabama, **A. Devpura**, M. Maroti and R. S. Rajput, "Monitoring Pandemic Precautionary Protocols using Real-time Surveillance and Artificial Intelligence," 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS), 2020, pp. 1036-1041, doi: 10.1109/ICISS49785.2020.9315934.
 
 ## Projects
 
