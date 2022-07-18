@@ -1,4 +1,4 @@
-# Ashutosh-Devpura-Portfolio
+
 
 # Data Science Portfolio - Ashutosh Devpura
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
@@ -8,17 +8,17 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Academics
  [Northeastern University](https://www.northeastern.edu/), Boston
- <br>Sep 2022 - May 2024 (expected)
+ <br>***Sep 2022 - May 2024 (expected)***
  <br>**MS, Data Analytics Engineering**
 
 
  [National Institute of Electronics & Information Technology](https://nielit.gov.in/chennai/), Chennai
-<br>Oct 2021 - Jun 2022
+<br>***Oct 2021 - Jun 2022***
 <br>**PG Diploma, Data Science & Analytics**  
 
     
  [SRM Institute of science & Technology](https://www.srmist.edu.in/), Chennai
- <br>May 2017 - Jun 2021
+ <br>***May 2017 - Jun 2021***
  <br>**B.Tech, Information Technology**
 
     
@@ -35,7 +35,7 @@ learning model to extract 128-d feature vectors using FaceNet.
 
 [AIESEC](https://aiesec.org/)
  <br>***AIESEC IN UNSRI***, Palembang, Indonesia
- <br>Dec 2019 - Jan 2020
+ <br>***Dec 2019 - Jan 2020***
 <br>**Business Analyst Volunteer**
 - Performed data cleaning and data validation on spreadsheets using Excel and conducted data exploration using SQL.
 - Interpreted data to acquire useful information using Market Basket Analysis and visualized it using Tableau.
@@ -43,7 +43,7 @@ learning model to extract 128-d feature vectors using FaceNet.
 20% of the total revenue.
  
  ***AISEC IN EGYPT***, Damietta, Egypt
- <br>Dec 2018 - Jan 2019
+ <br>***Dec 2018 - Jan 2019***
  <br>**Intern - Web Development**
 - Developed user interface with modern JavaScript frameworks, HTML5 and CSS3 by collaborating with the user experience designer and product manager.
 - Designed and implemented efficient and reusable front-end system for the NGO and troubleshot and debugged code ensuring compatibility with various devices and browsers.
