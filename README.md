@@ -66,7 +66,7 @@ learning model to extract 128-d feature vectors using FaceNet.
 Project Description<br>
 Project Description<br>
 Project Description<br>
-<br />
+<br>
 
 
 ## Kaggle
