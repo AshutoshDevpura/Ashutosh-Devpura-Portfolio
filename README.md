@@ -33,7 +33,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 learning model to extract 128-d feature vectors using FaceNet.
 - Trained face recognition model using scikit-learn’s implementation of Support Vector Machine obtaining 97% accuracy.
 
-
 [AIESEC](https://aiesec.org/)
  <br>***AIESEC IN UNSRI***, Palembang, Indonesia
  <br>Dec 2019 - Jan 2020
@@ -43,7 +42,7 @@ learning model to extract 128-d feature vectors using FaceNet.
 - Collaborated with small and medium Enterprises and local government to showcase the analysis which led to increase in
 20% of the total revenue.
  
- <br>***AISEC IN EGYPT***, Damietta, Egypt
+ ***AISEC IN EGYPT***, Damietta, Egypt
  <br>Dec 2018 - Jan 2019
  <br>**Intern - Web Development**
 - Developed user interface with modern JavaScript frameworks, HTML5 and CSS3 by collaborating with the user experience designer and product manager.
