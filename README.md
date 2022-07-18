@@ -61,6 +61,7 @@ learning model to extract 128-d feature vectors using FaceNet.
 
 ## Projects
 
+### Github Repo
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Project Description<br>
@@ -68,6 +69,10 @@ Project Description<br>
 Project Description<br>
 <br>
 
+### R Pubs
+<br>
+
+### Tableau Dashboard
 <br>
 
 ## Kaggle
