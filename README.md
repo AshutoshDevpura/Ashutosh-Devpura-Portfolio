@@ -24,26 +24,31 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     
  
  ## Internship & Volunteer Work
-**Technovalley Software India Private Limited** 
+[Technovalley Software India Private Limited](https://www.technovalley.co.in/), Kerala, India (Remote)
+<br>Oct 2020 - Apr 2021
+<br>**Intern - Artificial Intelligence**
 
--
--
--
+- Built the pipeline for Face Recognition system used to develop a facial recognition-based attendance system.
+- Implemented pre-trained Caffe-based deep learning model to localize faces in the video stream and a pre-trained Torch deep
+learning model to extract 128-d feature vectors using FaceNet.
+- Trained face recognition model using scikit-learn’s implementation of Support Vector Machine obtaining 97% accuracy.
 
 
-
-**AIESEC**
- <br>***AIESEC IN UNSRI***
+[AIESEC](https://aiesec.org/)
+ <br>***AIESEC IN UNSRI***, Palembang, Indonesia
+ <br>Dec 2019 - Jan 2020
+<br>**Business Analyst Volunteer**
+- Performed data cleaning and data validation on spreadsheets using Excel and conducted data exploration using SQL.
+- Interpreted data to acquire useful information using Market Basket Analysis and visualized it using Tableau.
+- Collaborated with small and medium Enterprises and local government to showcase the analysis which led to increase in
+20% of the total revenue.
  
- -
- -
- -
- 
- <br>***AISEC IN EGYPT***
- 
-  -
-  -
-    
+ <br>***AISEC IN EGYPT***, Damietta, Egypt
+ <br>Dec 2018 - Jan 2019
+ <br>**Intern - Web Development**
+- Developed user interface with modern JavaScript frameworks, HTML5 and CSS3 by collaborating with the user experience designer and product manager.
+- Designed and implemented efficient and reusable front-end system for the NGO and troubleshot and debugged code ensuring compatibility with various devices and browsers.
+
 
  
 ## Research Paper
