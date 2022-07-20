@@ -86,7 +86,7 @@ Project Description<br>
 - **Tools**: MySQL, Tableau, Git, Flask, MS Excel
 
 ## Certificates
-Coursera
+**Coursera**
 - [Johns Hopkins University Data Science: Statistics and Machine Learning Specialization](https://coursera.org/share/1cbe06a7b2e361410a36309451e2c476)
 
 - [University of Michigan Applied Data Science with Python Specialization](https://coursera.org/share/34f66078d57e7efc75d3ef4337483db6)
